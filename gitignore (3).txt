@@ -1,0 +1,7 @@
+echo "# lab0.2_repos" >> README.md 
+git init 
+git add README.md 
+git commit -m "перший коміт" 
+git branch -M main 
+git remote add origin https://github.com/25061978borys-droid/lab0.2_repos.git
+ git push -u origin main
